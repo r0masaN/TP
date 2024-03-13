@@ -18,6 +18,9 @@
 # Документация
 - [Техническое задание](https://github.com/r0masaN/TP/tree/b526f292d034dd3ba6fcd08e41f9cf101d2708e9/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)
 - [Сопроводительное письмо](https://github.com/r0masaN/TP/tree/b526f292d034dd3ba6fcd08e41f9cf101d2708e9/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE)
+# Диаграммы
+- [Диаграммы последовательностей](https://github.com/r0masaN/TP/tree/b526f292d034dd3ba6fcd08e41f9cf101d2708e9/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)
+- [Диаграммы USE CASE, ER, активностей, функциональная схема](https://github.com/r0masaN/TP/tree/673dbadaa59c5caabdc1fefd4ef8301a28567506/%D0%9F%D1%80%D0%BE%D1%87%D0%B8%D0%B5%20%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B%20%D0%B8%20%D1%81%D1%85%D0%B5%D0%BC%D1%8B)
 # Видеозаписи
 - [Видеопрезентация](https://github.com/r0masaN/TP/blob/b526f292d034dd3ba6fcd08e41f9cf101d2708e9/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8.MP4)
 # Лицензия
